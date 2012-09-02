@@ -13,7 +13,7 @@ You do a quick search for a simple-to-implement progress dialog solution in .Net
 
 Here's an example "Action Shot":
 
-![Progress Dialog Example](taok.github.com/EasyProgressDialog/img/progressdialogsample.png)
+![Progress Dialog Example](http://taok.github.com/EasyProgressDialog/img/progressdialogsample.png)
 
 
 ### Disclaimer / Caveat
