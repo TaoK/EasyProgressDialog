@@ -15,6 +15,15 @@ Here's an example "Action Shot":
 
 ![Progress Dialog Example](http://taok.github.com/EasyProgressDialog/img/progressdialogsample.png)
 
+#### References
+
+Some of the places I looked when I was working on this, a long long time ago:
+
+* http://www.mikedub.net/mikeDubSamples/SafeReallySimpleMultithreadingInWindowsForms20/SafeReallySimpleMultithreadingInWindowsForms20.htm
+* http://www.pcreview.co.uk/forums/generic-progress-bar-dialog-backgroundworker-t3224601.html
+* http://www.codeproject.com/Articles/31906/Progress-O-Doom
+* http://www.aspnet-answers.com/microsoft/NET-Windows-Forms/30616342/a-generic-progress-bar-dialog-with-backgroundworker.aspx
+
 
 ### Disclaimer / Caveat
 
